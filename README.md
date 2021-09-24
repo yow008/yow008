@@ -1,3 +1,5 @@
+Favorite Programming Language: Java
+
 - 👋 Hi, I’m You Wu.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Software Engineering.
