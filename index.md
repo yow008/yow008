@@ -6,7 +6,7 @@
 
 <img width="561" alt="Capture" src="https://user-images.githubusercontent.com/89385803/134749477-097fb61a-66d1-4486-9514-8741dbb747ac.PNG">
 
-[Education Background](edubg.md)  
+[Education Background](yow008/edubg.md)  
 > He is good at programming.  
 
 To ensure clarity of my code, I usually use meaningful variables names, e.g. `NumberOfCycles`.  
