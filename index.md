@@ -2,7 +2,7 @@
 
 ## You Wu
 ### [University of California San Diego](https://www.ucsd.edu/)
-**Computer Engineering**
+**Computer Engineering**  
 
 <img width="561" alt="Capture" src="https://user-images.githubusercontent.com/89385803/134749477-097fb61a-66d1-4486-9514-8741dbb747ac.PNG">
 
