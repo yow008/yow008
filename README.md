@@ -1,9 +1,6 @@
 https://yow008.github.io/yow008/
 
 - 👋 Hi, I’m You Wu.
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m taking CSE 110.
 - 📫 How to reach me yow008@ucsd.edu
 
 <!---
