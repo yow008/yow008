@@ -1,5 +1,3 @@
-https://yow008.github.io/yow008/
-
 - 👋 Hi, I’m You Wu.
 - 📫 How to reach me yow008@ucsd.edu
 
