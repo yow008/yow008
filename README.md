@@ -1,4 +1,4 @@
-- 👋 Hi, I’m You Wu.
+- 👋 Hi, I’m Wu, You.
 - 📫 How to reach me 
 
 <!---
