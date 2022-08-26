@@ -1,5 +1,5 @@
 - 👋 Hi, I’m You Wu.
-- 📫 How to reach me yow008@ucsd.edu
+- 📫 How to reach me 
 
 <!---
 yow008/yow008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
