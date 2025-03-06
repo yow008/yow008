@@ -1,6 +1,5 @@
 ## Hi there 👋
 This is You Wu.
-- I'm a student at the [University of California San Diego](https://ucsd.edu/).
 
 <!--
 **yow008/yow008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
